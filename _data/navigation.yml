@@ -1,8 +1,9 @@
-# main links
 main:
   - title: "About"
-    url: /portfolio
+    url: /
   - title: "Projects"
     url: /projects/
+  - title: "Publications"
+    url: /publications/
   - title: "Resume"
     url: /assets/files/resume.pdf
