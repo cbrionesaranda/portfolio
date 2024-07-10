@@ -1,8 +1,11 @@
 ---
-title: "3D Printed Titanium Rocket Motor Closure"
+title: "Active Air-Braking Drag System"
 header:
   teaser: /assets/images/printed-closure/printed-closure-composite.png
-excerpt: I designed a 3D printed Ti-6Al-4V rocket motor closure in collaboration with Renishaw PLC. I successfully used the closure in a static fire for a small solid rocket motor.
+excerpt: 
+
+I designed a drag induced braking system for a sounding rocket in collaboration with the USF rocketry team. The purpose of this system is to reduce the apogee error by actively reacting to live data through a PID System.
+
 order: 2
 share: false
 toc: true

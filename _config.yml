@@ -64,10 +64,10 @@ author:
   name   : "Cesar Briones"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : >
-    An engineer, maker, and PhD candidate in the MIT Department of Aeronautics
-    and Astronautics, with a multi-disciplinary skillset in design,
-    fabrication, and modelling and optimization of constrained physical
+    An engineer, maker, and student at USF, with a multi-disciplinary skillset in design,
+    fabrication, modelling and optimization of constrained physical
     systems.
+    
   location: "Tampa, FL"
   links:
     - label: "Email"
@@ -109,17 +109,6 @@ defaults:
   - scope:
       path: ""
       type: projects
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: true
-      related: false
-  # _publications
-  - scope:
-      path: ""
-      type: publications
     values:
       layout: single
       author_profile: true
