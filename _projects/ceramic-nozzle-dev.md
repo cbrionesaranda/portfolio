@@ -1,8 +1,9 @@
 ---
-title: "Small, Long Endurance Ceramic Rocket Nozzle Development"
+title: "Active Air-Braking Drag System"
 header:
   teaser: /assets/images/ceramic-nozzle-dev/ceramic-nozzle-dev-composite.png
 excerpt: I designed, manufactured, and tested ceramic nozzles suitable for small, long-endurance rocket motors with the novel use of 3D printed silica and alumina-silicate materials. 
+
 order: 3.2
 share: false
 toc: true
