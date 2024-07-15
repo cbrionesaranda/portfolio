@@ -1,7 +1,7 @@
 ---
 title: "Sentry Turret"
 header:
-  teaser: /assets/images/experiments-emission/composite.png
+  teaser: /assets/images/Sentry-Turret/banner.png
 excerpt: I designed and built a Sentry Turret from the Portal franchise for fun.
 order: 1
 share: false
