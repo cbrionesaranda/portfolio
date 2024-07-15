@@ -13,8 +13,11 @@ This project started as a joke
 
 ## Rocket Exhaust Plumes Overview
 
-![render1]({{ site.baseurl }}/assets/images/Sentry-Turret/render1.jpg)
-![render2]({{ site.baseurl }}/assets/images/Sentry-Turret/render2.jpg)
+![render1]({{ site.baseurl }}/assets/images/Sentry-Turret/render1.jpg){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration.</figcaption>{: .text-center}
+
+![render2]({{ site.baseurl }}/assets/images/Sentry-Turret/render2.jpg){:width="75%"}{: .align-center}
+<figcaption>Extended Configuration.</figcaption>{: .text-center}
 
 A rocket exhaust plume is the formation of hot, high-velocity combustion products that exit the nozzle of a rocket.
 Depending on the propellants used, the combustion products may have only gaseous constituents, or may have condensed particles as well.
