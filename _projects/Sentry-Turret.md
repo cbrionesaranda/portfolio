@@ -1,8 +1,8 @@
 ---
-title: "Experimental Measurements of Rocket Exhaust Plume Radiant Emission"
+title: "Sentry Turret"
 header:
   teaser: /assets/images/experiments-emission/composite.png
-excerpt: I designed and conducted a set of experiments to measure the effects of propellant formulation and motor chamber pressure on exhaust plume infrared radiant emission for small solid rocket motors.
+excerpt: I designed and built a Sentry Turret from the Portal franchise for fun.
 order: 1
 share: false
 toc: true
