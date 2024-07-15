@@ -33,23 +33,71 @@ The turret has 2 configurations: stowed and extended. Similarly to the sentry tu
 <figcaption>Demo1.</figcaption>{:width="75%"}{: .align-center}
 
 
-
-
-
-A collection of experiments measuring chamber pressure, thrust, and exhaust plume radiant emission for small, end-burning solid rocket motors were conducted. 
-The same end-burning motor configuration (discussed [below](#test-motor-design)) is used for all experiments, such that each motor firing had the same propellant burning area.
-
-A core test matrix of four motor static fires evaluates the effects of oxamide (a propellant burn rate supressant) and operating chamber pressure on exhaust plume radiant emission for small solid rocket motors.
-A baseline propellant formulation containing either 0 or 8% oxamide was used for the tests (discussed [here](#propellant)).
-For each of the two oxamide contents, two static fires with different throat diameters were conducted.
-The throat diameters were chosen so that the operating chamber pressure of the motors would be approximately 1 MPa and 2.5 MPa.
-
-![video1]({{ site.baseurl }}/assets/images/Sentry-Turret/first-demo.mp4){:width="75%"}{: .align-center}
-
 ## Assembly
 
 A consistent end-burning motor configuration was used for these experiments.
 A rendering of the motor design is shown below.
+
+
+![assembly1]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/1.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/2.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 2.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/3.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 3.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/4.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 4.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/5.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 5.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/6.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 6.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/7.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 7.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/8.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 8.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/9.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 9.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/10.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 10.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/11.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 11.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/12.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 12.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/13.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 13.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/14.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 14.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/15.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 15.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/16.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 16.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/17.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 17.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/18.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 18.</figcaption>{: .text-center}
+
+![Stowed Configuration]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/19.png){:width="75%"}{: .align-center}
+<figcaption>Stowed Configuration 19.</figcaption>{: .text-center}
+
+
+
 
 ![motor-section]({{ site.baseurl }}/assets/images/experiments-emission/motor_section.jpg)
 
