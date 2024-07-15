@@ -22,6 +22,14 @@ This project started as a fun side job during summer 2023. However, it was left 
 The turret has 2 configurations: stowed and extended. Similarly to the sentry turret character from Portal, the turret is completely stationary and it can rotate along the z axis. The movements are controlled by 2 independent 25kg-cm servos. Servo-A controlls the yaw and Servo-B controlls the degree of deployment of the lateral wings.
 
 ## Demo
+{% include video id="A9G9jy3HQnY" provider="youtube" caption="123" %}
+<figcaption>Demo1.</figcaption>
+
+{% include video id="UxmOcU_ZvJc" provider="youtube" caption="123" %}
+<figcaption>Demo2.</figcaption>
+
+{% include video id="shorts/7K9JwKkkMXM" provider="youtube" caption="123" %}
+<figcaption>Demo3.</figcaption>
 
 A collection of experiments measuring chamber pressure, thrust, and exhaust plume radiant emission for small, end-burning solid rocket motors were conducted. 
 The same end-burning motor configuration (discussed [below](#test-motor-design)) is used for all experiments, such that each motor firing had the same propellant burning area.
