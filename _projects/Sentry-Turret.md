@@ -9,9 +9,9 @@ toc: true
 toc_sticky: true
 ---
 
-This project started as a joke
+This project started as a fun side job during summer 2023. However, it was left in the unfinished projects folder once Fall started. Unexpectely, more efforts were put on the design after being told about a project competition. Unfortunately, finishing the project in less than a week and a half was an impossible task. I then realized how little I had left to do and finished in Spring 2024. After a couple design iterations, I collaborated with Alvaro Aguilar, a close friend from the USF rocketry club, to include tazers and remote control in the design. 
 
-## Rocket Exhaust Plumes Overview
+## Overview
 
 ![render1]({{ site.baseurl }}/assets/images/Sentry-Turret/render1.jpg){:width="75%"}{: .align-center}
 <figcaption>Stowed Configuration.</figcaption>{: .text-center}
@@ -19,15 +19,9 @@ This project started as a joke
 ![render2]({{ site.baseurl }}/assets/images/Sentry-Turret/render2.jpg){:width="75%"}{: .align-center}
 <figcaption>Extended Configuration.</figcaption>{: .text-center}
 
-A rocket exhaust plume is the formation of hot, high-velocity combustion products that exit the nozzle of a rocket.
-Depending on the propellants used, the combustion products may have only gaseous constituents, or may have condensed particles as well.
-Rocket exhaust plumes are not uniform in structure, temperatures, velocities, or chemical composition.
+The turret has 2 configurations: stowed and extended. Similarly to the sentry turret character from Portal, the turret is completely stationary and it can rotate along the z axis. The movements are controlled by 2 independent 25kg-cm servos. Servo-A controlls the yaw and Servo-B controlls the degree of deployment of the lateral wings.
 
-The hot gases and condensed particles (if present) in an exhaust plume emit radiant energy, producing a characteristic plume spectral radiant emission "signature" for a particular propulsion system.
-Gaseous species in the exhaust plume -- such as CO, CO<sub>2</sub>, H<sub>2</sub>O, and HCl -- emit radiation within particular spectral bands; the strongest of these spectral bands emit in the infrared.
-Condensed phases -- typically soot or alumina particles, if present -- usually produce a continuous emission spectrum, which usually peaks in the infrared for typical temperatures prevailing in rocket exhaust plumes. 
-
-## Experiments Overview
+## Demo
 
 A collection of experiments measuring chamber pressure, thrust, and exhaust plume radiant emission for small, end-burning solid rocket motors were conducted. 
 The same end-burning motor configuration (discussed [below](#test-motor-design)) is used for all experiments, such that each motor firing had the same propellant burning area.
@@ -37,7 +31,9 @@ A baseline propellant formulation containing either 0 or 8% oxamide was used for
 For each of the two oxamide contents, two static fires with different throat diameters were conducted.
 The throat diameters were chosen so that the operating chamber pressure of the motors would be approximately 1 MPa and 2.5 MPa.
 
-## Test motor design
+![video1]({{ site.baseurl }}/assets/images/Sentry-Turret/first-demo.mp4){:width="75%"}{: .align-center}
+
+## Assembly
 
 A consistent end-burning motor configuration was used for these experiments.
 A rendering of the motor design is shown below.
