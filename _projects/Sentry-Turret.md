@@ -9,19 +9,12 @@ toc: true
 toc_sticky: true
 ---
 
-Exhaust plume radiant emission is an important performance parameter for solid rocket vehicles where vehicle visibility is a concern.
-Many motor design parameters influence the plume radiant emission, and understanding these relationships can enable improved design with better plume performance.
-For my graduate research, I developed and conducted a set of experiments to help understand the relationships between solid rocket motor design variables, such as propellant formulation and motor chamber pressure, and exhaust plume infrared radiant emission. This research includes:
-
-- designing and building a solid rocket motor with a water-cooled nozzle;
-- developing a process for manufacturing solid rocket propellant, including building a custom vacuum mixer;
-- developing an x-ray inspection process for propellant;
-- conducting instrumented static fires of solid rocket motors, collecting calibrated radiometric, thrust, and chamber pressure measurements; and
-- analyzing raw radiometric data to evaluate motor exhaust plume radiant intensity.
+This project started as a joke
 
 ## Rocket Exhaust Plumes Overview
 
-![plume-model]({{ site.baseurl }}/assets/images/experiments-emission/1D_plume_model.png)
+![render1]({{ site.baseurl }}/assets/images/Sentry-Turret/render1.jpg)
+![render2]({{ site.baseurl }}/assets/images/Sentry-Turret/render2.jpg)
 
 A rocket exhaust plume is the formation of hot, high-velocity combustion products that exit the nozzle of a rocket.
 Depending on the propellants used, the combustion products may have only gaseous constituents, or may have condensed particles as well.
