@@ -28,7 +28,7 @@ The turret has 2 configurations: stowed and extended. Similarly to the sentry tu
 {% include video id="UxmOcU_ZvJc" provider="youtube" caption="123" %}
 <figcaption>Demo2.</figcaption>
 
-{% include video id="shorts/7K9JwKkkMXM" provider="youtube" caption="123" %}
+{% include video id="7K9JwKkkMXM" provider="youtube" caption="123" %}
 <figcaption>Demo3.</figcaption>
 
 A collection of experiments measuring chamber pressure, thrust, and exhaust plume radiant emission for small, end-burning solid rocket motors were conducted. 
