@@ -2,19 +2,17 @@
 title: "Active Air-Braking Drag System"
 header:
   teaser: /assets/images/printed-closure/printed-closure-composite.png
-excerpt: I designed a drag induced braking system for a sounding rocket in collaboration with the USF rocketry team. The purpose of this system is to reduce the apogee error by actively reacting to live data through a PID System.
+excerpt: I lead the design of a drag induced braking system for a sounding rocket with the USF rocketry team. The purpose of this system is to reduce the apogee error by actively reacting to live data through a PID System.
+
 order: 1
 share: false
 toc: true
 toc_sticky: true
 ---
 
-{% include video id="tfCgWSBuRZg" provider="youtube" caption="asdf" %}
-<figcaption>Video from an onboard camera on L3 rocket.</figcaption>
-
 ## Overview
-I designed, built, and flew a high-power rocket as part of the National Association of Rocketry [Level 3 Certification program](https://www.nar.org/high-power-rocketry-info/level-3-hpr-certification/). This certification involves building, flying, and successfully recovering a rocket that safely use an M impulse class or higher commercial solid rocket motor. The rocket design, performance analysis, and recovered vehicle are
-inspected by a certification committee.
+
+
 
 ## General Description of Rocket and Flight Operation
 

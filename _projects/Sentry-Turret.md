@@ -13,10 +13,10 @@ This project started as a fun side job during summer 2023. However, it was left 
 
 ## Overview
 
-![render1]({{ site.baseurl }}/assets/images/Sentry-Turret/render1.jpg){:width="75%"}{: .align-center}
-<figcaption>Stowed Configuration.</figcaption>{: .text-center}
+![render1]({{ site.baseurl }}/assets/images/Sentry-Turret/render1.jpg)
+<figcaption>Stowed Configuration.</figcaption>{:width="75%"}{: .align-center}{: .text-center}
 
-![render2]({{ site.baseurl }}/assets/images/Sentry-Turret/render2.jpg){:width="75%"}{: .align-center}
+![render2]({{ site.baseurl }}/assets/images/Sentry-Turret/render2.jpg)
 <figcaption>Extended Configuration.</figcaption>{: .text-center}
 
 The turret has 2 configurations: stowed and extended. Similarly to the sentry turret character from Portal, the turret is completely stationary and it can rotate along the z axis. The movements are controlled by 2 independent 25kg-cm servos. Servo-A controlls the yaw and Servo-B controlls the degree of deployment of the lateral wings.
@@ -24,19 +24,17 @@ The turret has 2 configurations: stowed and extended. Similarly to the sentry tu
 ## Demo
 
 {% include video id="7K9JwKkkMXM" provider="youtube" caption="123" %}
-<figcaption>Demo3.</figcaption>{:width="75%"}{: .align-center}
+<figcaption>Demo3.</figcaption>
 
 {% include video id="UxmOcU_ZvJc" provider="youtube" caption="123" %}
-<figcaption>Demo2.</figcaption>{:width="75%"}{: .align-center}
+<figcaption>Demo2.</figcaption>
 
 {% include video id="A9G9jy3HQnY" provider="youtube" caption="123" %}
-<figcaption>Demo1.</figcaption>{:width="75%"}{: .align-center}
+<figcaption>Demo1.</figcaption>
 
 
 ## Assembly
 
-A consistent end-burning motor configuration was used for these experiments.
-A rendering of the motor design is shown below.
 
 
 ![assembly1]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/1.png){:width="75%"}{: .align-center}
