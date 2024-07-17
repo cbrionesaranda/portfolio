@@ -9,7 +9,7 @@ toc: true
 toc_sticky: true
 ---
 
-This project started as a fun side job during summer 2023. However, it was left in the unfinished projects folder once Fall started. Unexpectely, more efforts were put on the design after being told about a project competition. Unfortunately, finishing the project in less than a week and a half was an impossible task. I then realized how little I had left to do and finished in Spring 2024. After a couple design iterations, I collaborated with Alvaro Aguilar, a close friend from the USF rocketry club, to include tazers and remote control in the design. 
+This project started as a fun side job during summer 2023. However, it was left in the unfinished projects folder once Fall started. Unexpectely, more efforts were put on the design after being told about a project competition. Unfortunately, finishing the project in less than a week and a half was an impossible task. I then realized how little I had left to do and finished in Spring 2024. After a couple design iterations, I collaborated with Alvaro Lazaro Aguilar, a close friend from the USF rocketry club, to include tazers and remote control in the design. 
 
 ## Overview
 
@@ -21,16 +21,16 @@ This project started as a fun side job during summer 2023. However, it was left 
 
 The turret has 2 configurations: stowed and extended. Similarly to the sentry turret character from Portal, the turret is completely stationary and it can rotate along the z axis. The movements are controlled by 2 independent 25kg-cm servos. Servo-A controlls the yaw and Servo-B controlls the degree of deployment of the lateral wings.
 
-## Demo
+## Demos
 
 {% include video id="7K9JwKkkMXM" provider="youtube" caption="123" %}
-<figcaption>Demo3.</figcaption>
+<figcaption>Finalized Product (May 2024).</figcaption>{: .text-center}
 
 {% include video id="UxmOcU_ZvJc" provider="youtube" caption="123" %}
-<figcaption>Demo2.</figcaption>
+<figcaption>Render before tazer (August 2023).</figcaption>{: .text-center}
 
 {% include video id="A9G9jy3HQnY" provider="youtube" caption="123" %}
-<figcaption>Demo1.</figcaption>
+<figcaption>First Demo (June 2023).</figcaption>{: .text-center}
 
 
 ## Assembly
@@ -39,22 +39,35 @@ The turret has 2 configurations: stowed and extended. Similarly to the sentry tu
 
 ![assembly1]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/1.png){: .align-center}|![assembly4]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/4.png){: .align-center}
 
+<figcaption>Core of Extension Mechanism.</figcaption>{: .text-center}
+
+
 ![assembl2]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/2.png){: .align-center}|![assembl32]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/3.png){: .align-center}
+<figcaption>Gears and Rack in action</figcaption>{: .text-center}
 
 ![assembly5]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/5.png){: .align-center}|![assembly6]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/6.png){: .align-center}
+<figcaption>Servo housing for Yaw control </figcaption>{: .text-center}
 
 ![assembly7]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/7.png){: .align-center}|![assembly8]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/8.png){: .align-center}
+<figcaption>Yaw rotation in action </figcaption>{: .text-center}
 
 ![assembly9]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/9.png){: .align-center}|![assembly10]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/10.png){: .align-center}
+<figcaption>Wing and tazer connection</figcaption>{: .text-center}
+
 
 ![assembly11]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/11.png){: .align-center}|![assembly12]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/12.png){: .align-center}
 
+<figcaption>Mounting of main body</figcaption>{: .text-center}
+
 ![assembly13]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/13.png){: .align-center}|![assembly14]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/14.png){: .align-center}
+<figcaption>Eye integration (tape)</figcaption>{: .text-center}
+
 
 ![assembly15]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/15.png){: .align-center}|![assembly16]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/16.png){: .align-center}
+<figcaption>Legs and main structural support</figcaption>{: .text-center}
 
 ![assembly18]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/18.png){: .align-center}|![assembly19]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/19.png){: .align-center}
-
+<figcaption>Mirrored Wing and Full Assembly</figcaption>{: .text-center}
 
 
 
