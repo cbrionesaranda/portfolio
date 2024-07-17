@@ -39,7 +39,7 @@ The turret has 2 configurations: stowed and extended. Similarly to the sentry tu
 
 ![assembly1]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/1.png){:width="75%"}{: .align-center}|![assembly4]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/4.png){:width="75%"}{: .align-center}
 
-<figcaption>Bottom Text<figcaption>{: .text-center}
+<figcaption>Bottom Text<figcaption>
 
 ![assembl2]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/2.png){:width="75%"}{: .align-center}|![assembl32]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/3.png){:width="75%"}{: .align-center}
 
