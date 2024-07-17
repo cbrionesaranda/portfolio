@@ -62,7 +62,7 @@ The turret has 2 configurations: stowed and extended. Similarly to the sentry tu
 <figcaption>Servo housing for Yaw control </figcaption>{: .text-center}
 
 <br />
-<br />
+
 
 ![assembly7]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/7.png){: .align-center}|![assembly8]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/8.png){: .align-center}
 
