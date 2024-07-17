@@ -27,21 +27,26 @@ This project started as a fun side job during summer 2023. However, it was left 
 
 The turret has 2 configurations: stowed and extended. Similarly to the sentry turret character from Portal, the turret is completely stationary and it can rotate along the z axis. The movements are controlled by 2 independent 25kg-cm servos. Servo-A controlls the yaw and Servo-B controlls the degree of deployment of the lateral wings.
 
-## Demos
+## Demonstration
 
 {% include video id="7K9JwKkkMXM" provider="youtube" caption="123" %}
 <figcaption>Finalized Product (May 2024).</figcaption>{: .text-center}
 
+<br />
+
+
 {% include video id="UxmOcU_ZvJc" provider="youtube" caption="123" %}
 <figcaption>Render before tazer (August 2023).</figcaption>{: .text-center}
 
+<br />
+
+
 {% include video id="A9G9jy3HQnY" provider="youtube" caption="123" %}
 <figcaption>First Demo (June 2023).</figcaption>{: .text-center}
+<br />
 
 
-## Assembly
-
-
+## Mechanical Design and Assembly
 
 ![assembly1]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/1.png){: .align-center}|![assembly4]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/4.png){: .align-center}
 
@@ -104,3 +109,7 @@ The turret has 2 configurations: stowed and extended. Similarly to the sentry tu
 <figcaption>Mirrored Wing and Full Assembly</figcaption>{: .text-center}
 
 <br />
+
+
+## Electronics Incorporation
+
