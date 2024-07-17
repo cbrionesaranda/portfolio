@@ -9,6 +9,12 @@ toc: true
 toc_sticky: true
 ---
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 This project started as a fun side job during summer 2023. However, it was left in the unfinished projects folder once Fall started. Unexpectely, more efforts were put on the design after being told about a project competition. Unfortunately, finishing the project in less than a week and a half was an impossible task. I then realized how little I had left to do and finished in Spring 2024. After a couple design iterations, I collaborated with Alvaro Lazaro Aguilar, a close friend from the USF rocketry club, to include tazers and remote control in the design. 
 
 ## Overview
