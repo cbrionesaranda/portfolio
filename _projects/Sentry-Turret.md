@@ -37,23 +37,23 @@ The turret has 2 configurations: stowed and extended. Similarly to the sentry tu
 
 
 
-![assembly1]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/1.png){:width="75%"}{: .align-center}|![assembly4]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/4.png){:width="75%"}{: .align-center}
+![assembly1]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/1.png){: .align-center}|![assembly4]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/4.png){: .align-center}
 
-![assembl2]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/2.png){:width="75%"}{: .align-center}|![assembl32]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/3.png){:width="75%"}{: .align-center}
+![assembl2]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/2.png){: .align-center}|![assembl32]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/3.png){: .align-center}
 
-![assembly5]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/5.png){:width="75%"}{: .align-center}|![assembly6]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/6.png){:width="75%"}{: .align-center}
+![assembly5]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/5.png){: .align-center}|![assembly6]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/6.png){: .align-center}
 
-![assembly7]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/7.png){:width="75%"}{: .align-center}|![assembly8]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/8.png){:width="75%"}{: .align-center}
+![assembly7]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/7.png){: .align-center}|![assembly8]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/8.png){: .align-center}
 
-![assembly9]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/9.png){:width="75%"}{: .align-center}|![assembly10]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/10.png){:width="75%"}{: .align-center}
+![assembly9]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/9.png){: .align-center}|![assembly10]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/10.png){: .align-center}
 
-![assembly11]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/11.png){:width="75%"}{: .align-center}|![assembly12]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/12.png){:width="75%"}{: .align-center}
+![assembly11]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/11.png){: .align-center}|![assembly12]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/12.png){: .align-center}
 
-![assembly13]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/13.png){:width="75%"}{: .align-center}|![assembly14]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/14.png){:width="75%"}{: .align-center}
+![assembly13]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/13.png){: .align-center}|![assembly14]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/14.png){: .align-center}
 
-![assembly15]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/15.png){:width="75%"}{: .align-center}|![assembly16]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/16.png){:width="75%"}{: .align-center}
+![assembly15]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/15.png){: .align-center}|![assembly16]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/16.png){: .align-center}
 
-![assembly18]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/18.png){:width="75%"}{: .align-center}|![assembly19]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/19.png){:width="75%"}{: .align-center}
+![assembly18]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/18.png){: .align-center}|![assembly19]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/19.png){: .align-center}
 
 
 
