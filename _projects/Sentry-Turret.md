@@ -47,57 +47,65 @@ The turret has 2 configurations: stowed and extended. Similarly to the sentry tu
 
 <figcaption>Core of Extension Mechanism.</figcaption>{: .text-center}
 
-&NewLine;
+<br />
+<br />
 
 ![assembl2]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/2.png){: .align-center}|![assembl32]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/3.png){: .align-center}
 
 <figcaption>Gears and Rack in action</figcaption>{: .text-center}
 
-&NewLine;
+<br />
+<br />
 
 ![assembly5]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/5.png){: .align-center}|![assembly6]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/6.png){: .align-center}
 
 <figcaption>Servo housing for Yaw control </figcaption>{: .text-center}
 
-&NewLine;
+<br />
+<br />
 
 ![assembly7]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/7.png){: .align-center}|![assembly8]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/8.png){: .align-center}
 
 <figcaption>Yaw rotation in action </figcaption>{: .text-center}
 
-&NewLine;
+<br />
+<br />
 
 ![assembly9]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/9.png){: .align-center}|![assembly10]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/10.png){: .align-center}
 
 <figcaption>Wing and tazer connection</figcaption>{: .text-center}
 
-&NewLine;
+<br />
+<br />
 
 
 ![assembly11]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/11.png){: .align-center}|![assembly12]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/12.png){: .align-center}
 
 <figcaption>Mounting of main body</figcaption>{: .text-center}
 
-&NewLine;
+<br />
+<br />
 
 ![assembly13]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/13.png){: .align-center}|![assembly14]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/14.png){: .align-center}
 
 <figcaption>Eye integration (tape)</figcaption>{: .text-center}
 
-&NewLine;
-
+<br />
+<br />
 
 ![assembly15]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/15.png){: .align-center}|![assembly16]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/16.png){: .align-center}
 
 <figcaption>Legs and main structural support</figcaption>{: .text-center}
 
-&NewLine;
+<br />
+<br />
 
 ![assembly18]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/18.png){: .align-center}|![assembly19]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/19.png){: .align-center}
 
 <figcaption>Mirrored Wing and Full Assembly</figcaption>{: .text-center}
 
-&NewLine;
+<br />
+<br />
 
 
 
