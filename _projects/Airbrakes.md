@@ -1,7 +1,7 @@
 ---
 title: "Active Air-Braking Drag System"
 header:
-  teaser: /assets/images/printed-closure/printed-closure-composite.png
+  teaser: /assets/images/Airbrakes/banner.png
 excerpt: I lead the design of a drag induced braking system for a sounding rocket with the USF rocketry team. The purpose of this system is to reduce the apogee error by actively reacting to live data through a PID System.
 
 order: 1
