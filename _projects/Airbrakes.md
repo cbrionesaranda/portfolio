@@ -11,7 +11,7 @@ toc_sticky: true
 ---
 
 ## Purpose
-The 
+
 
 ## Mechanical Design
 

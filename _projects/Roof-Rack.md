@@ -3,7 +3,7 @@ title: "LIDAR Mount Solution"
 header:
   teaser: /assets/images/Roof-Rack/Banner.png
 excerpt: In collaboration with the RANCS Research Group, I proposed, designed and assembled a mounting solution for the LIDAR. 
-order: 1.1
+order: 4
 share: false
 toc: true
 toc_sticky: true

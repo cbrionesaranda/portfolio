@@ -3,7 +3,7 @@ title: "Sentry Turret"
 header:
   teaser: /assets/images/Sentry-Turret/banner.png
 excerpt: A recreation of the Turret from the Portal Franchise. 
-order: 1
+order: 2
 share: false
 toc: true
 toc_sticky: true
