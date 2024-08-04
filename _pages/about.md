@@ -8,7 +8,7 @@ I have demosntarted project experience in iterative design, DFA, DFM, substracti
 
 Here are some of my creations.
 
-![wide-bio-photo]({{ site.baseurl }}/assets/images/wide-bio-photo.jpeg){: .align-center}
+![wide-bio-photo]({{ site.baseurl }}/assets/images/widephoto.jpg){: .align-center}
 
 
 

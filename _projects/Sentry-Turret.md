@@ -2,7 +2,7 @@
 title: "Sentry Turret"
 header:
   teaser: /assets/images/Sentry-Turret/banner.png
-excerpt: A recreation of the Turret from the Portal Franchise. 
+excerpt: A recreation of the Turret from the Portal Franchise. In order to make this robot a more safe to display and handle, the .223 bullets were replaced with 2,000 V tasers. 
 order: 2
 share: false
 toc: true
