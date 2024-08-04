@@ -19,7 +19,7 @@ This research project was presented at the USF Summer Research Sympossioum. Post
 
 ## Purpose
 
-The cell apparatus was designed with the intent of analyzing corrosion activity at small spots along a corroded region in a steel reinforcement. It is believed that in some cases the corroded regions may naturally go through repassivation, further proctecting the reinforcement from further corrosion damage.  
+The cell apparatus was designed with the intent of analyzing corrosion activity at small spots along a corroded region in a steel reinforcement. It is believed that in some cases the corroded regions may naturally go through repassivation, further protecting the reinforcement from further corrosion damage.  
 
 ## Design
 

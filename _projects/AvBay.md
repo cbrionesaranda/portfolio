@@ -16,7 +16,7 @@ A requirement of the USLI competition is to recover the rocket via dual-deployme
 
 ## Separation Feature
 
-The main and drogue parachute are connected to the top and bottom of the avionics bay respectively. Both ends hold 5 grams of black powder, which upon trigger, increase the pressure inside of the airframe, exceding the shear stress of the shear pins causing failure. The failure of the shear pins is necessary to separate the sections.
+The main and drogue parachute are connected to the top and bottom of the avionics bay respectively. Both ends hold 5 grams of black powder, which upon trigger, increase the pressure inside of the airframe, exceeding the shear stress of the shear pins causing failure. The failure of the shear pins is necessary to separate the sections.
 
 
 ## Extra Features

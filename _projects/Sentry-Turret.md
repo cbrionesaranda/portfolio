@@ -15,7 +15,7 @@ td, th {
 }
 </style>
 
-This project started as a fun side job during summer 2023. However, it was left in the unfinished projects folder once Fall started. Unexpectely, more efforts were put on the design after being told about a project competition. Unfortunately, finishing the project in less than a week and a half was an impossible task. I then realized how little I had left to do and finished in Spring 2024. After a couple design iterations, I collaborated with Alvaro Lazaro Aguilar, a close friend from the USF rocketry club, to include tazers and remote control in the design. 
+This project started as a fun side job during summer 2023. However, it was left in the unfinished projects folder once Fall started. Unexpectedly, more efforts were put on the design after being told about a project competition. Unfortunately, finishing the project in less than a week and a half was an impossible task. I then realized how little I had left to do and finished in Spring 2024. After a couple design iterations, I collaborated with Alvaro Lazaro Aguilar, a close friend from the USF rocketry club, to include tasers and remote control in the design. 
 
 ## Overview
 
@@ -25,7 +25,7 @@ This project started as a fun side job during summer 2023. However, it was left 
 ![render2]({{ site.baseurl }}/assets/images/Sentry-Turret/render2.jpg){:width="75%"}{: .align-center}
 <figcaption>Extended Configuration.</figcaption>{: .text-center}
 
-The turret has 2 configurations: stowed and extended. Similarly to the sentry turret character from Portal, the turret is completely stationary and it can rotate along the z axis. The movements are controlled by 2 independent 25kg-cm servos. Servo-A controlls the yaw and Servo-B controlls the degree of deployment of the lateral wings.
+The turret has 2 configurations: stowed and extended. Similarly to the sentry turret character from Portal, the turret is completely stationary and it can rotate along the z axis. The movements are controlled by 2 independent 25kg-cm servos. Servo-A controls the yaw and Servo-B controls the degree of deployment of the lateral wings.
 
 ## Demonstration
 
@@ -36,7 +36,7 @@ The turret has 2 configurations: stowed and extended. Similarly to the sentry tu
 
 
 {% include video id="UxmOcU_ZvJc" provider="youtube" caption="123" %}
-<figcaption>Render before tazer (August 2023).</figcaption>{: .text-center}
+<figcaption>Render before taser design (August 2023).</figcaption>{: .text-center}
 
 <br />
 
@@ -77,7 +77,7 @@ The turret has 2 configurations: stowed and extended. Similarly to the sentry tu
 
 ![assembly9]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/9.png){: .align-center}|![assembly10]({{ site.baseurl }}/assets/images/Sentry-Turret/assembly/10.png){: .align-center}
 
-<figcaption>Wing and tazer connection</figcaption>{: .text-center}
+<figcaption>Wing and tasers connection</figcaption>{: .text-center}
 
 <br />
 
