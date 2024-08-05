@@ -1,6 +1,6 @@
 ---
 title: "Corrosion Electrochemical Analysis Cell"
-excerpt: "Development of a electrochemical micro cell to measure corrosion activity on reinforcements, flat plates and irregular surfaeces. Made in Collaboration with the Corrosion Research Laboratory at USF."
+excerpt: "Development of a electrochemical micro cell to measure corrosion activity on reinforcements, flat plates and irregular surfaces. Made in Collaboration with the Corrosion Research Laboratory at USF."
 header:
   teaser: /assets/images/Cell/banner.png
 order: 3
