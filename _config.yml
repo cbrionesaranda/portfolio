@@ -75,7 +75,7 @@ author:
       url: "mailto:cesar.briones.aranda@gmail.com"
     - label: "Resume"
       icon: "far fa-fw fa-file-pdf"
-      url: /assets/files/resume.pdf
+      url: /assets/files/Cesar_Briones_Resume.pdf
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cbrionesaranda"
