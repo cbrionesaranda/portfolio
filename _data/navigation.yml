@@ -3,5 +3,7 @@ main:
     url: /
   - title: "Projects"
     url: /projects/
+  - title: "Machining"
+    url: /Machining/
   - title: "Resume"
     url: /assets/files/Cesar_Briones_Resume.pdf
