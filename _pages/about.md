@@ -8,7 +8,7 @@ I have demonstrated project experience in iterative design, DFA, DFM, subtractiv
 
 Here are some of my creations.
 
-![airbrakes]({{ site.baseurl }}/assets/images/pics1.jpg){: .align-center}
+![airbrakes]({{ site.baseurl }}/assets/images/pics1.png){: .align-center}
 <figcaption>Active Aerodynamic Control System (Airbrakes).</figcaption>{: .text-center}
 
 ![teampic]({{ site.baseurl }}/assets/images/launch attempt1.jpg){: .align-center}
