@@ -7,4 +7,4 @@ author_profile: true
 sort_by: order
 toc: true
 ---
-A selection of hardware and software projects I've worked on
+A selection of hardware and software projects I've worked on. Click on links for more details/access to reports.

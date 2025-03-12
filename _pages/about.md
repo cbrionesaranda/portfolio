@@ -8,7 +8,11 @@ I have demonstrated project experience in iterative design, DFA, DFM, subtractiv
 
 Here are some of my creations.
 
+![airbrakes]({{ site.baseurl }}/assets/images/pics1.jpg){: .align-center}
+<figcaption>Active Aerodynamic Control System (Airbrakes).</figcaption>{: .text-center}
+
+![teampic]({{ site.baseurl }}/assets/images/launch attempt1.jpg){: .align-center}
+<figcaption>Latest USF Rocketry Team launch attempt.</figcaption>{: .text-center}
+
 ![wide-bio-photo]({{ site.baseurl }}/assets/images/widephoto.jpg){: .align-center}
-
-
-
+<figcaption>Sentry Turret, Avionics Bay (2023-24), Airbrakes prototype.</figcaption>{: .text-center}
