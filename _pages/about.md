@@ -6,6 +6,8 @@ I'm Cesar - an undergraduate mechanical engineering student and researcher at th
 
 I have demonstrated project experience in iterative design, DFA, DFM, subtractive and additive manufacturing, modeling and optimization of constrained physical system, technical documentation and data analysis. I enjoy working on challenging, multi-disciplinary projects addressing problems with a creative solution. Check out some of my projects [here]({{ site.baseurl }}/projects).
 
+I have demonstrated experience in CNC programming and operating, DFMA, CAD modeling, data analysis, project management and technical documentation. I enjoy working on challenging, multi-disciplinary projects addressing problems with creative solutions. Check out some of my projects
+
 Here are some of my creations.
 
 ![airbrakes]({{ site.baseurl }}/assets/images/pics1.png){: .align-center}
