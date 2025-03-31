@@ -11,6 +11,10 @@ Here are some of my creations.
 ![airbrakes]({{ site.baseurl }}/assets/images/pics1.png){: .align-center}
 <figcaption>Active Aerodynamic Control System (Airbrakes).</figcaption>{: .text-center}
 
+{% include video id="kE55WvXBUqY" provider="youtube" caption="123" %}
+<figcaption>Airbrakes Mechanical Demonstration.</figcaption>{: .text-center}
+
+
 ![teampic]({{ site.baseurl }}/assets/images/launch attempt1.jpg){: .align-center}
 <figcaption>Latest USF Rocketry Team launch attempt.</figcaption>{: .text-center}
 
