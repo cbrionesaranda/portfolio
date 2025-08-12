@@ -18,5 +18,6 @@ Here are some of my creations.
 ![teampic]({{ site.baseurl }}/assets/images/launch attempt1.jpg){: .align-center}
 <figcaption>Latest USF Rocketry Team launch attempt.</figcaption>{: .text-center}
 
-![wide-bio-photo]({{ site.baseurl }}/assets/images/widephoto.jpg){: .align-center}
-<figcaption>Sentry Turret, Avionics Bay (2023-24), Airbrakes prototype.</figcaption>{: .text-center}
+
+{% include video id="vB9MZm1FjMg" provider="youtube" caption="123" %}
+<figcaption>Coaxial Swirl Injector Simulation.</figcaption>{: .text-center}
