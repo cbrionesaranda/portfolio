@@ -2,9 +2,11 @@
 permalink: /
 title: "About"
 ---
-I'm Cesar - an undergraduate mechanical engineering student and researcher at the University of South Florida, graduating in May 2026. Currently, I am leading the development of a an active air braking system, while competing in national rocketry competitions and conducting research in corrosion activity analysis.
+I’m Cesar, an undergraduate mechanical engineering student and researcher at the University of South Florida, graduating in May 2026. As Chief Engineer of the USF Rocketry Team in the NASA Student Launch, I lead vehicle development and designed an active drag device for mid-flight trajectory adjustments.
 
-I have extensive experience in CNC programming and operation, Design for Manufacture and Assembly, FEA, CFD, data analysis, and years of experience in technical writing/documentation. I enjoy working on challenging multi-disciplinary projects in a collaborative and creative way, especially when these projects involve innovating and maximizing available resources. Click [here]({{ site.baseurl }}/projects) to see some of my projects in greater detail.
+My background includes extensive experience in CNC programming and operation, Design for Manufacture and Assembly (DFMA), FEA, CFD, data analysis, and technical writing. I thrive on challenging projects where creativity and collaboration are essential, and I’m driven to find innovative ways to maximize available resources.
+
+Click [here]({{ site.baseurl }}/projects) to see some of my projects in greater detail.
 
 Here are some of my creations.
 
