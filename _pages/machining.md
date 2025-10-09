@@ -9,6 +9,14 @@ A collection of the parts that I have programed operated and machined.
 ![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/pic3.png){: .align-center}
 <figcaption>Machining process of the servo holder.</figcaption>{: .text-center}
 
+![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/cncmachinning.png){: .align-center}
+<figcaption>Toolpath for servo holder.</figcaption>{: .text-center}
+
+
+![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/waves.png){: .align-center}
+<figcaption>Fun test on machining surfaces.</figcaption>{: .text-center}
+
+
 ![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/pics2.png){: .align-center}
 <figcaption>Airbrakes extension mechanism assembly.</figcaption>{: .text-center}
 
