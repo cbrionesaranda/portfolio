@@ -1,5 +1,5 @@
 ---
-title: "LIDAR Mount Solution"
+title: "LIDAR Mount Solution (December 2023 - March 2024)"
 header:
   teaser: /assets/images/Roof-Rack/Banner.png
 excerpt: In collaboration with the RANCS Research Group, I proposed, designed and assembled a mounting solution for the LIDAR. 

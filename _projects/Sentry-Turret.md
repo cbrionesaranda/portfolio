@@ -1,5 +1,5 @@
 ---
-title: "Sentry Turret"
+title: "Sentry Turret (May 2023 - April 2024)"
 header:
   teaser: /assets/images/Sentry-Turret/banner.png
 excerpt: A recreation of the Turret from the Portal Franchise. In order to maximize safety when handling and displaying the device, the .223 bullets (as shown in the franchise) were replaced with 2,000 V tasers. 

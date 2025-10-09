@@ -1,5 +1,5 @@
 ---
-title: "Corrosion Electrochemical Analysis Cell"
+title: "Corrosion Electrochemical Analysis Cell (May 2024 - August 2024)"
 excerpt: "Development of a electrochemical micro cell to measure corrosion activity on reinforcements, flat plates and irregular surfaces. Made in Collaboration with the Corrosion Research Laboratory at USF."
 header:
   teaser: /assets/images/Cell/banner.png
