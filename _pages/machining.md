@@ -5,6 +5,14 @@ author_profile: true
 ---
 A collection of the parts that I have programed operated and machined. 
 
+![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/plates.jpeg){: .align-center}
+<figcaption>Centering rings for bolted fin assembly.</figcaption>{: .text-center}
+
+{% include video id="Nnn-LpeuC5A" provider="youtube" caption="123" %}
+<figcaption>Tormach 770 - Centering ring.</figcaption>{: .text-center}    
+
+{% include video id="yM14gVpGWAw" provider="youtube" caption="123" %}
+<figcaption>Shapeoko HDM - Low Clearance.</figcaption>{: .text-center}   
 
 ![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/pic3.png){: .align-center}
 <figcaption>Machining process of the servo holder.</figcaption>{: .text-center}
