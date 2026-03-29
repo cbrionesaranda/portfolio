@@ -1,5 +1,5 @@
 ---
-title: "NASA Student Launch 2025 (August 2024 - May 2025) ↗"
+title: "NASA Student Launch 2025 (August 2024 - May 2025)"
 header:
   teaser: /assets/images/USLI/Banner.png
 excerpt: I lead the Aerostructures Team for the USF Rocketry Team. The latest report written by the team will be linked in this section.
