@@ -5,8 +5,20 @@ author_profile: true
 ---
 A collection of the parts that I have programed operated and machined. 
 
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/cubesat.png){: .align-center}
-<figcaption>Cubesat (in progresss).</figcaption>{: .text-center}
+![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/training.jpeg){: .align-center}
+<figcaption>Training Part (in progresss).</figcaption>{: .text-center}
+
+{% include video id="vyhiuNZQmT8" provider="youtube" caption="123" %}
+<figcaption>Cubesat.</figcaption>{: .text-center}  
+
+{% include video id="vyhiuNZQmT8" provider="youtube" caption="123" %}
+<figcaption>Cubesat.</figcaption>{: .text-center}  
+
+![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/cubesat1.png){: .align-center}
+<figcaption>Finished Cubesat (in progresss).</figcaption>{: .text-center}
+
+![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/cubesat1.png){: .align-center}
+<figcaption>Cubesat deployment (in progresss).</figcaption>{: .text-center}
 
 ![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/plates.jpeg){: .align-center}
 <figcaption>Centering rings for bolted fin assembly.</figcaption>{: .text-center}
