@@ -11,14 +11,12 @@ A collection of the parts that I have programed operated and machined.
 {% include video id="vyhiuNZQmT8" provider="youtube" caption="123" %}
 <figcaption>Cubesat.</figcaption>{: .text-center}  
 
-{% include video id="vyhiuNZQmT8" provider="youtube" caption="123" %}
-<figcaption>Cubesat.</figcaption>{: .text-center}  
 
 ![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/cubesat1.png){: .align-center}
-<figcaption>Finished Cubesat (in progresss).</figcaption>{: .text-center}
+<figcaption>Finished Cubesat.</figcaption>{: .text-center}
 
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/cubesat1.png){: .align-center}
-<figcaption>Cubesat deployment (in progresss).</figcaption>{: .text-center}
+![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/cubesat2.png){: .align-center}
+<figcaption>Deployed Cubesat.</figcaption>{: .text-center}
 
 ![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/plates.jpeg){: .align-center}
 <figcaption>Centering rings for bolted fin assembly.</figcaption>{: .text-center}
