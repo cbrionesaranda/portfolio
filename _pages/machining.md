@@ -1,54 +1,61 @@
 ---
 title: "Machining"
 permalink: /Machining/
+classes: wide
 author_profile: true
 ---
-A collection of the parts that I have programed operated and machined. 
+A collection of parts I have programmed, operated, and machined.
 
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/training.jpeg){: .align-center}
-<figcaption>Training Part (in progresss).</figcaption>{: .text-center}
-<br><br>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start;">
 
-{% include video id="vyhiuNZQmT8" provider="youtube" caption="123" %}
-<figcaption>Cubesat.</figcaption>{: .text-center}  
-<br><br>
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/Airbrakes2/training.jpeg" style="width:100%;">
+    <figcaption>Training part.</figcaption>
+  </div>
 
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/cubesat1.png){: .align-center}
-<figcaption>Finished Cubesat.</figcaption>{: .text-center}
-<br><br>
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/Airbrakes2/cubesat1.png" style="width:100%;">
+    <figcaption>Finished CubeSat.</figcaption>
+  </div>
 
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/cubesat2.png){: .align-center}
-<figcaption>Deployed Cubesat.</figcaption>{: .text-center}
-<br><br>
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/Airbrakes2/cubesat2.png" style="width:100%;">
+    <figcaption>Deployed CubeSat.</figcaption>
+  </div>
 
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/plates.jpeg){: .align-center}
-<figcaption>Centering rings for bolted fin assembly.</figcaption>{: .text-center}
-<br><br>
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/Airbrakes2/plates.jpeg" style="width:100%;">
+    <figcaption>Centering rings for bolted fin assembly.</figcaption>
+  </div>
 
-{% include video id="Nnn-LpeuC5A" provider="youtube" caption="123" %}
-<figcaption>Tormach 770 - Centering ring.</figcaption>{: .text-center}    
-<br><br>
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/Airbrakes2/pic3.png" style="width:100%;">
+    <figcaption>Servo holder machining process.</figcaption>
+  </div>
 
-{% include video id="yM14gVpGWAw" provider="youtube" caption="123" %}
-<figcaption>Shapeoko HDM - Low Clearance.</figcaption>{: .text-center}   
-<br><br>
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/Airbrakes2/cncmachinning.png" style="width:100%;">
+    <figcaption>Servo holder toolpath.</figcaption>
+  </div>
 
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/pic3.png){: .align-center}
-<figcaption>Machining process of the servo holder.</figcaption>{: .text-center}
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/Airbrakes2/waves.png" style="width:100%;">
+    <figcaption>Surface finish machining test.</figcaption>
+  </div>
 
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/cncmachinning.png){: .align-center}
-<figcaption>Toolpath for servo holder.</figcaption>{: .text-center}
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/Airbrakes2/pics2.png" style="width:100%;">
+    <figcaption>Airbrakes extension mechanism assembly.</figcaption>
+  </div>
 
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/Airbrakes2/link_hub.jpg" style="width:100%;">
+    <figcaption>Link hub press-fitted to servo spline adapter (prototype).</figcaption>
+  </div>
 
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/waves.png){: .align-center}
-<figcaption>Fun test on machining surfaces.</figcaption>{: .text-center}
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/Airbrakes2/table.png" style="width:100%;">
+    <figcaption>Kinematic walking table. Links failed due to poor material selection.</figcaption>
+  </div>
 
-
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/pics2.png){: .align-center}
-<figcaption>Airbrakes extension mechanism assembly.</figcaption>{: .text-center}
-
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/link_hub.jpg){: .align-center}
-<figcaption>Link hub press-fitted to servo spline adapter, link hub prototype.</figcaption>{: .text-center}
-
-![teampic]({{ site.baseurl }}/assets/images/Airbrakes2/table.png){: .align-center}
-<figcaption>Kinematics walking table project. Poor material selection led to breaking of links.</figcaption>{: .text-center}
+</div>

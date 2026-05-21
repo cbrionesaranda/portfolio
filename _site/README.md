@@ -1,3 +1,3 @@
-# cbrionesaranda.github.io
-
-A website for my engineering portfolio.
+# cbrionesaranda.github.io/portfolio/
+ 
+A website for my engineering portfolio

@@ -1,32 +1,36 @@
 ---
 permalink: /
 title: "About"
+classes: wide page-about
 ---
-I’m Cesar, an undergraduate mechanical engineering student and researcher at the University of South Florida, graduating in May 2026. As Chief Engineer of the USF Rocketry Team in the NASA Student Launch, I lead vehicle development and designed an active drag device for mid-flight trajectory adjustments.
+I'm Cesar, a mechanical engineering student and researcher at the University of South Florida. I am currently the Chief Engineer of the USF Rocketry Team in the IREC 10K COTS category, and I led the development of an active aerodynamic system and a liquid bipropellant rocket engine. My background includes extensive experience in Design For Manufacture and Assembly, FEA, CFD, data analysis, and technical writing. I thrive on challenging projects that require creativity and collaboration, and I'm driven to find innovative ways to maximize available resources.
 
-My background includes extensive experience in CNC programming and operation, Design for Manufacture and Assembly (DFMA), FEA, CFD, data analysis, and technical writing. I thrive on challenging projects where creativity and collaboration are essential, and I’m driven to find innovative ways to maximize available resources.
+Click [here]({{ site.baseurl }}/projects) to see some of my projects in greater detail. Here are some of my creations.
 
-Click [here]({{ site.baseurl }}/projects) to see some of my projects in greater detail.
+![airbrakes]({{ site.baseurl }}/assets/images/pics1.png){:width="75%"}{: .align-center}
+<figcaption>Active aerodynamic control system (airbrakes).</figcaption>{: .text-center}
 
-Here are some of my creations.
+<div class="video-75" markdown="0">
+{% include video id="kE55WvXBUqY" provider="youtube" caption="Airbrakes mechanical demonstration." %}
+</div>
+<figcaption>Airbrakes mechanical demonstration.</figcaption>{: .text-center}
 
-![airbrakes]({{ site.baseurl }}/assets/images/pics1.png){: .align-center}
-<figcaption>Active Aerodynamic Control System (Airbrakes).</figcaption>{: .text-center}
+![engine1]({{ site.baseurl }}/assets/images/Engine.png){:width="75%"}{: .align-center}
+<figcaption>Manufactured Coaxial Swirl Injector.</figcaption>{: .text-center}
 
-{% include video id="kE55WvXBUqY" provider="youtube" caption="123" %}
-<figcaption>Airbrakes Mechanical Demonstration.</figcaption>{: .text-center}
-
-
-![teampic]({{ site.baseurl }}/assets/images/launch attempt1.jpg){: .align-center}
+![teampic]({{ site.baseurl }}/assets/images/launch attempt1.jpg){:width="75%"}{: .align-center}
 <figcaption>Latest USF Rocketry Team launch attempt.</figcaption>{: .text-center}
 
+<div class="video-75" markdown="0">
+{% include video id="vB9MZm1FjMg" provider="youtube" caption="Single-element coaxial swirl injector simulation." %}
+</div>
+<figcaption>Single-element coaxial swirl injector simulation.</figcaption>{: .text-center}
 
-{% include video id="vB9MZm1FjMg" provider="youtube" caption="123" %}
-<figcaption>Single Element Coaxial Swirl Injector Simulation.</figcaption>{: .text-center}
+<div class="video-75" markdown="0">
+{% include video id="V1lThFZYMIU" provider="youtube" caption="Full coaxial swirl injector simulation." %}
+</div>
+<figcaption>Full coaxial swirl injector simulation.</figcaption>{: .text-center}
 
-{% include video id="V1lThFZYMIU" provider="youtube" caption="123" %}
-<figcaption>Full Coaxial Swirl Injector Simulation.</figcaption>{: .text-center}    
+![PCB]({{ site.baseurl }}/assets/images/PCB/IMG_9990.JPG){:width="75%"}{: .align-center}
 
-
-![PCB]({{ site.baseurl }}/assets/images/PCB/IMG_9990.JPG){: .align-center}
-<figcaption>PCB for Impedance measuring system.</figcaption>{: .text-center}
+<figcaption>PCB for impedance measurement system.</figcaption>{: .text-center}

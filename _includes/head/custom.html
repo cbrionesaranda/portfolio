@@ -1,0 +1,28 @@
+<style>
+  /* About page only: body text size */
+  .page-about .page__content p,
+  .page-about .page__content li {
+    font-size: 0.75rem;
+  }
+
+  /* About page only: honor {:width="75%"} on images */
+  .page-about .page__content img[width="75%"] {
+    width: 75% !important;
+    max-width: 75%;
+    height: auto;
+    display: block;
+    margin-inline: auto;
+  }
+
+  /* Per-block YouTube width (wrap embed in <div class="video-75" markdown="0">) */
+  .page-about .page__content .video-75 .responsive-video-container {
+    width: 75%;
+    max-width: 75%;
+    margin-inline: auto;
+  }
+
+  /* Space after each caption before the next image or video */
+  .page-about .page__content figcaption {
+    margin-bottom: 2rem;
+  }
+</style>

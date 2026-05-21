@@ -1,16 +1,22 @@
+
+
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
-  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.28.0 by Michael Rose
+  Copyright 2013-2026 Michael Rose - mademistakes.com | @mmistakes
+  Copyright 2024-2026 iBug - ibugone.com | @iBug
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
-<html lang="en" class="no-js">
-  <head>
-    <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Sentry Turret - Cesar Briones</title>
-<meta name="description" content="I designed and conducted a set of experiments to measure the effects of propellant formulation and motor chamber pressure on exhaust plume infrared radiant emission for small solid rocket motors.">
+<html lang="en" class="no-js" dir="ltr">
+  <head>
+    
+<meta charset="utf-8">
+
+
+<!-- begin _includes/seo.html --><title>Sentry Turret (May 2023 - April 2024) - Cesar Briones</title>
+<meta name="description" content="A recreation of the turret from the Portal franchise. To maximize safety when handling and displaying the device, the .223 bullets (as shown in the franchise) were replaced with 2,000 V tasers.">
 
 
   <meta name="author" content="Cesar Briones">
@@ -22,42 +28,36 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Cesar Briones">
-<meta property="og:title" content="Experimental Measurements of Rocket Exhaust Plume Radiant Emission">
-<meta property="og:url" content="http://localhost:4000/portfolio/projects/Sentry-Turret/">
+<meta property="og:title" content="Sentry Turret (May 2023 - April 2024)">
+<meta property="og:url" content="http://0.0.0.0:4000/portfolio/projects/Sentry-Turret/">
 
 
-  <meta property="og:description" content="I designed and conducted a set of experiments to measure the effects of propellant formulation and motor chamber pressure on exhaust plume infrared radiant emission for small solid rocket motors.">
-
-
-
-  <meta property="og:image" content="http://localhost:4000/portfolio/assets/images/experiments-emission/composite.png">
+  <meta property="og:description" content="A recreation of the turret from the Portal franchise. To maximize safety when handling and displaying the device, the .223 bullets (as shown in the franchise) were replaced with 2,000 V tasers.">
 
 
 
-
-
-  <meta property="article:published_time" content="2023-02-17T10:27:03-05:00">
+  <meta property="og:image" content="http://0.0.0.0:4000/portfolio/assets/images/Sentry-Turret/banner.png">
+  
 
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/portfolio/projects/Sentry-Turret/">
+
+  <meta property="article:published_time" content="2026-05-21T17:50:33-05:00">
 
 
 
 
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    
-      "@type": "Person",
-      "name": null,
-      "url": "http://localhost:4000/portfolio/"
-    
-  }
-</script>
+
+
+<link rel="canonical" href="http://0.0.0.0:4000/portfolio/projects/Sentry-Turret/">
+
+
+
+
+
 
 
 
@@ -70,32 +70,54 @@
 
 
   <link href="/portfolio/feed.xml" type="application/atom+xml" rel="alternate" title="Cesar Briones Feed">
-
-
-<!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
 </script>
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/portfolio/assets/css/main.css">
-<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
 
 
 
-    <!-- start custom head snippets -->
+    <style>
+  /* About page only: body text size */
+  .page-about .page__content p,
+  .page-about .page__content li {
+    font-size: 0.75rem;
+  }
 
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
+  /* About page only: honor {:width="75%"} on images */
+  .page-about .page__content img[width="75%"] {
+    width: 75% !important;
+    max-width: 75%;
+    height: auto;
+    display: block;
+    margin-inline: auto;
+  }
 
-<!-- end custom head snippets -->
+  /* Per-block YouTube width (wrap embed in <div class="video-75" markdown="0">) */
+  .page-about .page__content .video-75 .responsive-video-container {
+    width: 75%;
+    max-width: 75%;
+    margin-inline: auto;
+  }
+
+  /* Space after each caption before the next image or video */
+  .page-about .page__content figcaption {
+    margin-bottom: 2rem;
+  }
+</style>
 
   </head>
 
   <body class="layout--single">
-    <nav class="skip-links">
+    
+<nav class="skip-links" aria-label="Skip links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
@@ -105,23 +127,40 @@
 
     
 
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
         
         <a class="site-title" href="/portfolio/">
-          Kelly Mathesius
+          Cesar Briones
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/portfolio/">About</a>
+              <a
+                href="/portfolio/"
+                
+                
+              >About</a>
             </li><li class="masthead__menu-item">
-              <a href="/portfolio/projects/">Projects</a>
+              <a
+                href="/portfolio/projects/"
+                
+                
+              >Projects</a>
             </li><li class="masthead__menu-item">
-              <a href="/portfolio/publications/">Publications</a>
+              <a
+                href="/portfolio/Machining/"
+                
+                
+              >Machining</a>
             </li><li class="masthead__menu-item">
-              <a href="/portfolio/assets/files/resume.pdf">Resume</a>
+              <a
+                href="/portfolio/assets/files/Cesar_Briones_Resume.pdf"
+                
+                
+              >Resume</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -147,8 +186,11 @@
 
 
 
+
+
 <div id="main" role="main">
   
+
   <div class="sidebar sticky">
   
 
@@ -157,7 +199,7 @@
 
   
     <div class="author__avatar">
-      <a href="http://localhost:4000/portfolio/">
+      <a href="http://0.0.0.0:4000/portfolio/">
         <img src="/portfolio/assets/images/bio-photo.jpg" alt="Cesar Briones" itemprop="image" class="u-photo">
       </a>
     </div>
@@ -165,11 +207,11 @@
 
   <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
-      <a class="u-url" rel="me" href="http://localhost:4000/portfolio/" itemprop="url">Cesar Briones</a>
+      <a class="u-url" rel="me" href="http://0.0.0.0:4000/portfolio/" itemprop="url">Cesar Briones</a>
     </h3>
     
       <div class="author__bio p-note" itemprop="description">
-        <p>An engineer, maker, and PhD candidate in the MIT Department of Aeronautics and Astronautics, with a multi-disciplinary skillset in design, fabrication, and modelling and optimization of constrained physical systems.</p>
+        <p>Engineering student skilled in design, machining, CFD, structural FEA, and data processing</p>
 
       </div>
     
@@ -180,26 +222,26 @@
     <ul class="author__urls social-icons">
       
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Cambridge, MA</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Tampa, FL</span>
         </li>
       
 
       
         
           
-            <li><a href="mailto:kelly.mathesius@gmail.com" rel="nofollow noopener noreferrer me"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
+            <li><a href="mailto:cesar.briones.aranda@gmail.com" rel="nofollow noopener noreferrer me"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
           
         
           
-            <li><a href="/portfolio/assets/files/resume.pdf" rel="nofollow noopener noreferrer me"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i><span class="label">Resume</span></a></li>
+            <li><a href="/portfolio/assets/files/Cesar_Briones_Resume.pdf" rel="nofollow noopener noreferrer me"><i class="far fa-fw fa-file-pdf" aria-hidden="true"></i><span class="label">Resume</span></a></li>
           
         
           
-            <li><a href="https://github.com/kjmath" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+            <li><a href="https://github.com/cbrionesaranda" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
           
         
           
-            <li><a href="https://www.linkedin.com/in/kelly-mathesius/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+            <li><a href="https://www.linkedin.com/in/cesar-briones-aranda/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
           
         
       
@@ -263,24 +305,26 @@
   </div>
 </div>
   
+  
   </div>
 
 
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Experimental Measurements of Rocket Exhaust Plume Radiant Emission">
-    <meta itemprop="description" content="I designed and conducted a set of experiments to measure the effects of propellant formulation and motor chamber pressure on exhaust plume infrared radiant emission for small solid rocket motors.">
-    <meta itemprop="datePublished" content="2023-02-17T10:27:03-05:00">
+    <meta itemprop="headline" content="Sentry Turret (May 2023 - April 2024)">
+    <meta itemprop="description" content="A recreation of the turret from the Portal franchise. To maximize safety when handling and displaying the device, the .223 bullets (as shown in the franchise) were replaced with 2,000 V tasers.">
+    
     
 
     <div class="page__inner-wrap">
       
         <header>
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="http://localhost:4000/portfolio/projects/experiments-emission/" class="u-url" itemprop="url">Experimental Measurements of Rocket Exhaust Plume Radiant Emission
+            <a href="http://0.0.0.0:4000/portfolio/projects/Sentry-Turret/" itemprop="url">Sentry Turret (May 2023 - April 2024)
 </a>
           </h1>
           
+
 
 
         </header>
@@ -289,180 +333,176 @@
       <section class="page__content e-content" itemprop="text">
         
           <aside class="sidebar__right sticky">
-            <nav class="toc">
+            <nav class="toc" aria-label="Table of contents">
               <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
-              <ul class="toc__menu"><li><a href="#rocket-exhaust-plumes-overview">Rocket Exhaust Plumes Overview</a></li><li><a href="#experiments-overview">Experiments Overview</a></li><li><a href="#test-motor-design">Test motor design</a></li><li><a href="#propellant">Propellant</a><ul><li><a href="#formula">Formula</a></li><li><a href="#manufacturing">Manufacturing</a></li><li><a href="#inspection">Inspection</a></li></ul></li><li><a href="#test-setup">Test Setup</a></li><li><a href="#instrumentation">Instrumentation</a><ul><li><a href="#exhaust-plume-radiant-emission">Exhaust Plume Radiant Emission</a></li><li><a href="#thrust-and-chamber-pressure">Thrust and Chamber Pressure</a></li></ul></li><li><a href="#results">Results</a></li></ul>
-
+              <ul class="toc__menu"><li><a href="#overview">Overview</a></li><li><a href="#demonstration">Demonstration</a></li><li><a href="#mechanical-design-and-assembly">Mechanical Design and Assembly</a></li><li><a href="#electronics-incorporation">Electronics Incorporation</a></li></ul>
             </nav>
           </aside>
         
-        <p>Exhaust plume radiant emission is an important performance parameter for solid rocket vehicles where vehicle visibility is a concern.
-Many motor design parameters influence the plume radiant emission, and understanding these relationships can enable improved design with better plume performance.
-For my graduate research, I developed and conducted a set of experiments to help understand the relationships between solid rocket motor design variables, such as propellant formulation and motor chamber pressure, and exhaust plume infrared radiant emission. This research includes:</p>
+        <style>
+td, th {
+   border: none!important;
+}
+</style>
 
-<ul>
-  <li>designing and building a solid rocket motor with a water-cooled nozzle;</li>
-  <li>developing a process for manufacturing solid rocket propellant, including building a custom vacuum mixer;</li>
-  <li>developing an x-ray inspection process for propellant;</li>
-  <li>conducting instrumented static fires of solid rocket motors, collecting calibrated radiometric, thrust, and chamber pressure measurements; and</li>
-  <li>analyzing raw radiometric data to evaluate motor exhaust plume radiant intensity.</li>
-</ul>
+<p>This project started as a fun side project during summer 2023. However, it was left in the unfinished projects folder once fall started. Unexpectedly, more effort was put into the design after being told about a project competition. Unfortunately, finishing the project in less than a week and a half was an impossible task. I then realized how little I had left to do and finished in spring 2024. After a couple of design iterations, I collaborated with Alvaro Lazaro Aguilar, a close friend from the USF Rocketry club, to include tasers and remote control in the design.</p>
 
-<h2 id="rocket-exhaust-plumes-overview">Rocket Exhaust Plumes Overview</h2>
+<h2 id="overview">Overview</h2>
 
-<p><img src="/portfolio/assets/images/experiments-emission/1D_plume_model.png" alt="plume-model" /></p>
+<p><img src="/portfolio/assets/images/Sentry-Turret/render1.jpg" alt="render1" width="75%" class="align-center" /></p>
+<figcaption class="text-center">Stowed configuration.</figcaption>
 
-<p>A rocket exhaust plume is the formation of hot, high-velocity combustion products that exit the nozzle of a rocket.
-Depending on the propellants used, the combustion products may have only gaseous constituents, or may have condensed particles as well.
-Rocket exhaust plumes are not uniform in structure, temperatures, velocities, or chemical composition.</p>
+<p><img src="/portfolio/assets/images/Sentry-Turret/render2.jpg" alt="render2" width="75%" class="align-center" /></p>
+<figcaption class="text-center">Extended configuration.</figcaption>
 
-<p>The hot gases and condensed particles (if present) in an exhaust plume emit radiant energy, producing a characteristic plume spectral radiant emission “signature” for a particular propulsion system.
-Gaseous species in the exhaust plume – such as CO, CO<sub>2</sub>, H<sub>2</sub>O, and HCl – emit radiation within particular spectral bands; the strongest of these spectral bands emit in the infrared.
-Condensed phases – typically soot or alumina particles, if present – usually produce a continuous emission spectrum, which usually peaks in the infrared for typical temperatures prevailing in rocket exhaust plumes.</p>
+<p>The turret has two configurations: stowed and extended. Similarly to the sentry turret character from Portal, the turret is stationary and can rotate along the z-axis. The movements are controlled by two independent 25 kg·cm servos. Servo-A controls the yaw and Servo-B controls the degree of deployment of the lateral wings.</p>
 
-<h2 id="experiments-overview">Experiments Overview</h2>
+<h2 id="demonstration">Demonstration</h2>
 
-<p>A collection of experiments measuring chamber pressure, thrust, and exhaust plume radiant emission for small, end-burning solid rocket motors were conducted. 
-The same end-burning motor configuration (discussed <a href="#test-motor-design">below</a>) is used for all experiments, such that each motor firing had the same propellant burning area.</p>
+<!-- Courtesy of embedresponsively.com -->
 
-<p>A core test matrix of four motor static fires evaluates the effects of oxamide (a propellant burn rate supressant) and operating chamber pressure on exhaust plume radiant emission for small solid rocket motors.
-A baseline propellant formulation containing either 0 or 8% oxamide was used for the tests (discussed <a href="#propellant">here</a>).
-For each of the two oxamide contents, two static fires with different throat diameters were conducted.
-The throat diameters were chosen so that the operating chamber pressure of the motors would be approximately 1 MPa and 2.5 MPa.</p>
+<div class="responsive-video-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/7K9JwKkkMXM" title="YouTube video player" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
 
-<h2 id="test-motor-design">Test motor design</h2>
+<p><br /></p>
 
-<p>A consistent end-burning motor configuration was used for these experiments.
-A rendering of the motor design is shown below.</p>
+<!-- Courtesy of embedresponsively.com -->
 
-<p><img src="/portfolio/assets/images/experiments-emission/motor_section.jpg" alt="motor-section" /></p>
+<div class="responsive-video-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/UxmOcU_ZvJc" title="YouTube video player" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
 
-<p>The thick-walled motor case, machined from 316 stainless steel to ensure corrosion resistance, allows sufficient room for a through-the-wall NPT port for a pressure transducer to measure the motor chamber pressure.
-A rupture disc is mounted to a through-the-wall NPT port as well.
-The forward and aft closures are additionally machined from 316 stainless steel.
-The closures are each retained with eight axially oriented 6-32 screws.
-Redundant silicone o-rings are used for sealing each of the closures.</p>
+<p><br /></p>
 
-<p>The aft closure is water-cooled to ensure reasonable temperatures are maintained during the static fires.
-The aft closure assembly was designed such that there are no protrusions beyond the nozzle exit plane.
-This ensures that no portion of the plume is shadowed during the plume radiant emission measurements.
-A slot on the aft closure interfaces with a pin in the aft insulator to ensure proper clocking.
-The interior of the aft closure is tapered to interface with the nozzle insert (the nozzle is discussed further <a href="/portfolio/projects/ceramic-nozzle-dev/">here</a>), which is bonded to the aft closure with a silicone adhesive.
-The tapered design is desirable, since the pressure load on the nozzle due to propellant combustion helps the nozzle insert to seal against the aft closure.</p>
+<!-- Courtesy of embedresponsively.com -->
 
-<h2 id="propellant">Propellant</h2>
+<div class="responsive-video-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/A9G9jy3HQnY" title="YouTube video player" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
 
-<h3 id="formula">Formula</h3>
+<p><br /></p>
 
-<p>Two different propellant formulations were used: a “baseline” formulation, and formulation with 8% oxamide burn rate supressant.
-The baseline propellant formulation for these experiments is an ammonium perchlorate composite propellant with 80% ammonium perchlorate oxidizer and 20% hydroxyl-terminated polybutadiene based binder.
-To create the 8% oxamide formula, the baseline propellant formulation is simply diluted with the desired mass fraction of the additive.</p>
+<h2 id="mechanical-design-and-assembly">Mechanical Design and Assembly</h2>
 
-<h3 id="manufacturing">Manufacturing</h3>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/1.png" alt="assembly1" class="align-center" /></td>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/4.png" alt="assembly4" class="align-center" /></td>
+    </tr>
+  </tbody>
+</table>
 
-<p><img src="/portfolio/assets/images/experiments-emission/mixer-good.png" alt="mixer" /></p>
+<figcaption class="text-center">Core of extension mechanism.</figcaption>
 
-<p>Mixing propellant under vacuum helps to remove water and other volatiles from the propellant precursors and prevent air from being mixed into the propellant during mixing.
-Because commercial vaccuum mixers with appropriate volume and power requirements cost over $15k and have several months lead time, a custom vacuum mixer was built.</p>
+<p><br /></p>
 
-<p>The propellant was mixed in a custom vacuum mixer made from a heavily modified Bosch Universal Plus MUM6N10 kitchen mixer with a 6.2 L capacity.
-The mixer has a single rotating shaft that passes up through the center of the bowl, with an attachment for two geared paddles for mixing in the bowl. 
-The relative simplicity of this mixer design – as opposed to the design of planetary mixers – means only a single rotating shaft needs to be sealed in order to pull vacuum.
-A 3D printed insert with o-rings seals the rotating shaft to the rest of the mixing bowl. 
-An image of the shaft seal insert is shown below.</p>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/2.png" alt="assembl2" class="align-center" /></td>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/3.png" alt="assembl32" class="align-center" /></td>
+    </tr>
+  </tbody>
+</table>
 
-<p><img src="/portfolio/assets/images/experiments-emission/shaft-seal.png" alt="shaft-seal" /></p>
+<figcaption class="text-center">Gears and rack in action.</figcaption>
 
-<h3 id="inspection">Inspection</h3>
+<p><br /></p>
 
-<p>All propellant grains were imaged with an x-ray to inspect for voids or other defects within the grain.
-Every x-ray image collected had two indicator propellant grains within the field of view.
-These indicator grains were the same size as the test grain, and had holes of known diameter drilled into the ends at different radial locations in the grain.
-The indicator grains provide verification in every image that any voids present in the test grain with dimensions greater than the holes in the indicator grains should be visible in the image.</p>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/5.png" alt="assembly5" class="align-center" /></td>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/6.png" alt="assembly6" class="align-center" /></td>
+    </tr>
+  </tbody>
+</table>
 
-<p>One of these x-ray images is shown below.
-The two indicator grains are on the left, and the test grain is on the right.
-Many voids are visible in the test grain, and are pointed out with arrows in the image. 
-Propellant grains with significant voids were not used, since the voids would likely result in unpredictable propellant burning areas and motor chamber pressures.</p>
+<figcaption class="text-center">Servo housing for yaw control.</figcaption>
 
-<p><img src="/portfolio/assets/images/experiments-emission/x_ray_inspection.jpg" alt="x-ray" /></p>
+<p><br /></p>
 
-<h2 id="test-setup">Test Setup</h2>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/7.png" alt="assembly7" class="align-center" /></td>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/8.png" alt="assembly8" class="align-center" /></td>
+    </tr>
+  </tbody>
+</table>
 
-<p>All motor tests were conducted in a reinforced concrete blast chamber located on MIT campus.
-The motors were mounted to a custom thrust stand (described <a href="#thrust-and-chamber-pressure">here</a>) positioned in front of a high-emissivity background.
-Thrust, chamber pressure, and exhaust plume radiant emission measurements were collected for each motor; the instrumentation for these measurements is discussed <a href="#instrumentation">below</a>.
-An exhaust duct was positioned downstream of the motor to collect the exhaust and vent it outside.
-This ventilation helped to prevent the exhaust gases from stagnating downstream of the motor and subsequently obstructing the exhaust plume radiant emission measurement.
-An image of the test facility is given below.</p>
+<figcaption class="text-center">Yaw rotation in action.</figcaption>
 
-<p><img src="/portfolio/assets/images/experiments-emission/test_background-crop.jpg" alt="test-facility" /></p>
+<p><br /></p>
 
-<h2 id="instrumentation">Instrumentation</h2>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/9.png" alt="assembly9" class="align-center" /></td>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/10.png" alt="assembly10" class="align-center" /></td>
+    </tr>
+  </tbody>
+</table>
 
-<h3 id="exhaust-plume-radiant-emission">Exhaust Plume Radiant Emission</h3>
+<figcaption class="text-center">Wing and taser connection.</figcaption>
 
-<p>The exhaust plume radiant emission was measured using a CI Systems SR-5000N spectroradiometer.
-The radiometer used liquid nitrogen cooled indium-antimonide (InSb) and mercury-cadmium-telluride (MCT) photovoltaic detectors that together are sensitive to radiation from 1.2 - 14.2 μm. 
-A continuous variable filter sampled the different wavelengths during measurements into 379 wavelength bins across the spectrum. 
-The spectrum was scanned at a rate of 1 Hz at the maximum instrument gain setting.
-Measurements are made relative to a floating internal blackbody in the radiometer.</p>
+<p><br /></p>
 
-<p>The collection optics of the radiometer had an 18.7° field of view.
-The radiometer was positioned 3.67 m away from the center axis of the exhaust plume, and the center of the optics were positioned to be 0.19 m downstream from the nozzle exit plane of the motor.
-The positioning was chosen to keep the plume within the center third of the field of view, which has a flatter measurement response from the radiometer optics.
-The concrete wall behind the motor served as a thermally stable background, given its large thermal mass.
-The wall was painted with a high-emissivity paint to create a high-emissivity background for the radiant emission measurement, which prevented any reflection of radiation from the room or plume that might have altered the measurement. 
-The figure below illustrates the positioning of the radiometer with respect to the motor.</p>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/11.png" alt="assembly11" class="align-center" /></td>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/12.png" alt="assembly12" class="align-center" /></td>
+    </tr>
+  </tbody>
+</table>
 
-<p><img src="/portfolio/assets/images/experiments-emission/radiometer_location2.jpg" alt="radiometer-location" /></p>
+<figcaption class="text-center">Main body mounting.</figcaption>
 
-<h3 id="thrust-and-chamber-pressure">Thrust and Chamber Pressure</h3>
+<p><br /></p>
 
-<p>Thrust is measured using an Omega LCEB-5 load cell with a rated capacity of 5 lbf (22 N).
-The load cell is connected to a swung platform on a thrust stand<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, shown below, on which the motor is mounted.
-Flexures support the swung platform, which constrain the platform to have one degree of freedom in the thrust direction.
-The linkage between the swung platform and the load cell uses a double-ball joint that only constrains movement in the thrust direction.</p>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/13.png" alt="assembly13" class="align-center" /></td>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/14.png" alt="assembly14" class="align-center" /></td>
+    </tr>
+  </tbody>
+</table>
 
-<p>Chamber pressure was measured using an Omega PX119-600AI pressure transducer with a 600 psi (4.1 MPa) maximum pressure.
-The pressure transducer was mounted through the wall of the motor case.
-Excess volume in the connections between the pressure transducer and the motor case was packed with low thermal conductivity silicone grease to protect the pressure transducer from the hot combustion gases of the motor.
-The pressure transducer mounted to a motor can also be seen below.</p>
+<figcaption class="text-center">Eye integration (tape).</figcaption>
 
-<p><img src="/portfolio/assets/images/experiments-emission/motor_on_thrust_stand-crop.jpg" alt="thrust-stand" /></p>
+<p><br /></p>
 
-<h2 id="results">Results</h2>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/15.png" alt="assembly15" class="align-center" /></td>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/16.png" alt="assembly16" class="align-center" /></td>
+    </tr>
+  </tbody>
+</table>
 
-<p>The radiant intensity and chamber pressure measurements for the core test matrix of four static fires (SF) are shown below.
-These four static fires are denoted SF4, SF5, SF6, and SF7.
-The pressure traces for SF4, SF6, and SF7 are relatively flat, which is the desired behavior for an end-burning motor.
-SF5 shows an initial peak in pressure, which eventually decays to a relatively steady chamber pressure, although the trace is still slightly regressive.
-The peak and decay are most likely due to the use of a relatively large starter grain used for igniting the propellant, which wasn’t used for the other motors. 
-This starter grain created an initial increase in burning area before being consumed, which explains the initial peak in chamber pressure.
-Its possible that the hotter, faster burning commercial propellant starter grain caused the main propellant grain near the starter grain to momentarily burn faster than the rest of the propellant surface, altering the propellant surface geometry such that the rest of the pressure profile was slightly regressive.</p>
+<figcaption class="text-center">Legs and main structural support.</figcaption>
 
-<p><img src="/portfolio/assets/images/experiments-emission/rad_data_annotated-crop.jpg" alt="rad-data" /></p>
+<p><br /></p>
 
-<p>Emission bands in the radiant intensity spectra for the motors correspond to the combustion products in the motor exhaust.
-The radiant intensity spectra for SF4-SF7 each have a strong peak at 4.3 μm.
-This peak is due to the CO<sub>2</sub> in the exhaust plume, which has a strong molecular emission band centered at 4.3 μm.
-A weaker peak at 4.7 μm can also be seen, which is due to CO emission.
-The measurements at wavelengths less than 4 μm for each motor test are unfortunately noisy.
-Measuring the radiant emission of these small, slow-burning solid rocket motors required operating the spectroradiometer near its lower sensitivity limit.
-Even at the maximum gain setting, the exhaust plume contrast measurements used, at most (at the 4.3 μm CO<sub>2</sub> band where the signal was strongest), 7.7 % of the dynamic range of the detector.
-For a larger motor with more emission, a band centered at 2.7 μm due to both H<sub>2</sub>O and CO<sub>2</sub> and a band centered at 3.5 μm for HCl would be expected, given the expected combustion products in the motor’s exhaust.
-However, these weaker emission bands are not very pronounced for these small, low-thrust motors.</p>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/18.png" alt="assembly18" class="align-center" /></td>
+      <td><img src="/portfolio/assets/images/Sentry-Turret/assembly/19.png" alt="assembly19" class="align-center" /></td>
+    </tr>
+  </tbody>
+</table>
 
-<hr />
-<p><em>Much of the discussion on this page was borrowed from my (not yet complete) PhD thesis.</em></p>
+<figcaption class="text-center">Mirrored wing and full assembly.</figcaption>
 
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>The thrust stand was originally designed and built by Dr. Matthew Vernacchia for his doctoral <a href="https://dspace.mit.edu/handle/1721.1/127069">thesis work</a>. Modifications were made for this work. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
+<p><br /></p>
+
+<h2 id="electronics-incorporation">Electronics Incorporation</h2>
 
         
       </section>
@@ -471,26 +511,30 @@ However, these weaker emission bands are not very pronounced for these small, lo
         
         
 
+  
+
+  
+
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-02-17T10:27:03-05:00">February 17, 2023</time></p>
+
 
       </footer>
 
       
 
       
-  <nav class="pagination">
+
+  <nav class="pagination" aria-label="Post pagination">
     
-      <a href="/portfolio/projects/combustion-instabilities/" class="pagination--pager" title="Combustion Instability Modeling in Solid Rocket Motors
-">Previous</a>
+      <a href="/portfolio/projects/Roof-Rack/" class="pagination--pager" title="LiDAR Mount Solution (December 2023 - March 2024)">Previous</a>
     
     
-      <a href="/portfolio/projects/manf-process-simulator/" class="pagination--pager" title="Multi-Process Manufacturing System Simulator
-">Next</a>
+      <a href="/portfolio/projects/USLI/" class="pagination--pager" title="NASA Student Launch 2025 (August 2024 - May 2025)">Next</a>
     
   </nav>
+
 
     </div>
 
@@ -501,11 +545,13 @@ However, these weaker emission bands are not very pronounced for these small, lo
   
 </div>
 
+      
     </div>
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+        
+<div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
     <label class="sr-only" for="search">
       Enter your search term...
     </label>
@@ -522,7 +568,7 @@ However, these weaker emission bands are not very pronounced for these small, lo
 
 <!-- end custom footer snippets -->
         <div class="page__footer-follow">
-    <ul class="social-icons">
+  <ul class="social-icons">
       
   
       
@@ -531,7 +577,7 @@ However, these weaker emission bands are not very pronounced for these small, lo
     </ul>
   </div>
   
-  <div class="page__footer-copyright">&copy; 2023 Kelly Mathesius. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+  <div class="page__footer-copyright">&copy; 2026 Cesar Briones. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
       </footer>
     </div>
 
@@ -541,9 +587,11 @@ However, these weaker emission bands are not very pronounced for these small, lo
 
 
 
+
 <script src="/portfolio/assets/js/lunr/lunr.min.js"></script>
 <script src="/portfolio/assets/js/lunr/lunr-store.js"></script>
 <script src="/portfolio/assets/js/lunr/lunr-en.js"></script>
+
 
 
 
