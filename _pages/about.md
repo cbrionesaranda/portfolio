@@ -27,7 +27,7 @@ Click [here]({{ site.baseurl }}/projects) to see some of my projects in greater 
 <figcaption>Airbrakes mechanical demonstration.</figcaption>{: .text-center}
 
 
-![teampic]({{ site.baseurl }}/assets/images/groupic1.png){:width="75%"}{: .align-center}
+![teampic]({{ site.baseurl }}/assets/images/grouppic.png){:width="75%"}{: .align-center}
 <figcaption>USF SOAR at IREC 2026.</figcaption>{: .text-center}
 
 <div class="video-75" markdown="0">
