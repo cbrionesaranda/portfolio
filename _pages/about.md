@@ -7,6 +7,17 @@ I'm Cesar, a mechanical engineering student and researcher at the University of 
 
 Click [here]({{ site.baseurl }}/projects) to see some of my projects in greater detail. Here are some of my creations.
 
+![engine]({{ site.baseurl }}/assets/images/Engine1.png){:width="75%"}{: .align-center}
+<figcaption>Active aerodynamic control system (airbrakes).</figcaption>{: .text-center}
+
+![engine1]({{ site.baseurl }}/assets/images/Engine.png){:width="75%"}{: .align-center}
+<figcaption>Manufactured Coaxial Swirl Injector.</figcaption>{: .text-center}
+
+<div class="video-75" markdown="0">
+{% include video id="78GaMxb-eSw" provider="youtube" caption="Latest water flow test." %}
+</div>
+<figcaption>Coaxial Swirl Injector Water Flow Test.</figcaption>{: .text-center}
+
 ![airbrakes]({{ site.baseurl }}/assets/images/pics1.png){:width="75%"}{: .align-center}
 <figcaption>Active aerodynamic control system (airbrakes).</figcaption>{: .text-center}
 
@@ -15,11 +26,9 @@ Click [here]({{ site.baseurl }}/projects) to see some of my projects in greater 
 </div>
 <figcaption>Airbrakes mechanical demonstration.</figcaption>{: .text-center}
 
-![engine1]({{ site.baseurl }}/assets/images/Engine.png){:width="75%"}{: .align-center}
-<figcaption>Manufactured Coaxial Swirl Injector.</figcaption>{: .text-center}
 
-![teampic]({{ site.baseurl }}/assets/images/launch attempt1.jpg){:width="75%"}{: .align-center}
-<figcaption>Latest USF Rocketry Team launch attempt.</figcaption>{: .text-center}
+![teampic]({{ site.baseurl }}/assets/images/groupic1.png){:width="75%"}{: .align-center}
+<figcaption>USF SOAR at IREC 2026.</figcaption>{: .text-center}
 
 <div class="video-75" markdown="0">
 {% include video id="vB9MZm1FjMg" provider="youtube" caption="Single-element coaxial swirl injector simulation." %}
