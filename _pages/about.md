@@ -7,7 +7,7 @@ I'm Cesar, a mechanical engineering student and researcher at the University of 
 
 Click [here]({{ site.baseurl }}/projects) to see some of my projects in greater detail. Here are some of my creations.
 
-![engine]({{ site.baseurl }}/assets/images/Engine1.png){:width="75%"}{: .align-center}
+![engine]({{ site.baseurl }}/assets/images/engine2.png){:width="75%"}{: .align-center}
 <figcaption>3000N Bipropellant Engine.</figcaption>{: .text-center}
 
 ![engine1]({{ site.baseurl }}/assets/images/Engine.png){:width="75%"}{: .align-center}
