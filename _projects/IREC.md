@@ -6,7 +6,7 @@ excerpt: I lead the USF Rocketry Team as Chief Engineer. The latest report writt
 
 link: /portfolio/assets/files/Team024_University of South Florida_Project Technical Report.pdf
 no_link_icon: false
-order: 0
+order: 1
 share: false
 ---
 
